@@ -118,5 +118,21 @@
       <a href="#macropower-tech"><img src="https://static.vecteezy.com/system/resources/previews/009/033/752/non_2x/dvc-logo-dvc-letter-dvc-letter-logo-design-initials-dvc-logo-linked-with-circle-and-uppercase-monogram-logo-dvc-typography-for-technology-business-and-real-estate-brand-vector.jpg" width="48" height="48" alt="Neovim" /></a>
       <br>nvim
     </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="TypeScript" /></a>
+        <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="TypeScript" /></a>
+        <br>TypeScript
+    </td>    
+    <td align="center" width="96">
+        <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="TypeScript" /></a>
+        <br>TypeScript
+    </td>
+  <td align="center" width="96">
+    <a href="#macropower-tech"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="48" height="48" alt="TypeScript" /></a>
+    <br>TypeScript
+    </td>
   </tr>
 </table>
