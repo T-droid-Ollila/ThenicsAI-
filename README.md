@@ -1,72 +1,3 @@
-<img width="1000" height="569" alt="image" src="https://github.com/user-attachments/assets/285647e2-c64c-4469-be86-2f5c54a713c0" />
-
-
-<h2 align="center">🤝 Meet Our Team</h2>
-
-<table align="center">
-  <tr>
-    <th>Team Member</th>
-    <th>GitHub</th>
-    <th>LinkedIn</th>
-  </tr>
-  <tr>
-    <th> Ollila Simiyu — Project Lead</th>
-    <td>
-      <a href="https://github.com/YOUR_USERNAME">
-        <img src="https://cdn.simpleicons.org/github/181717"
-             width="45" height="45" alt="GitHub">
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/YOUR_PROFILE">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-             width="45" height="45" alt="LinkedIn">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th> Lilly Rutto </th>
-    <td><a href="https://github.com/USER1">
-      <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub">
-    </a></td>
-    <td><a href="https://linkedin.com/in/USER1">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
-    </a></td>
-  </tr>
-  <tr>
-    <th> Chemutai </th>
-    <td><a href="https://github.com/USER2">
-      <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub">
-    </a></td>
-    <td><a href="https://linkedin.com/in/USER2">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
-    </a></td>
-  </tr>
-  <tr>
-    <td>Collaborator 3</td>
-    <td><a href="https://github.com/USER3">
-      <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub">
-    </a></td>
-    <td><a href="https://linkedin.com/in/USER3">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
-    </a></td>
-  </tr>
-</table>
-
-
-<h2 align="center">⚡ Motion Detection App — Tech Stack </h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,,githubactions,git,github&theme=dark" alt="Technology Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge" alt="Ray"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge" alt="DVC"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
-</p>
-
 # 📡 Motion Detection App
 
 An AI-powered motion detection app that watches a camera feed, detects movement, understands what happened, and sends alerts.
@@ -234,4 +165,3 @@ git clone <your-repo-url>
 cd motion-detection-app
 open motion-detection-app.html   # or just double-click the file
 ```
-
