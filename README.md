@@ -1,4 +1,4 @@
-<p align = "center">
+<p align="center">
   <img width="800" height="489" alt="perfect-pushup" src="https://github.com/user-attachments/assets/a3d4e7cd-cf4b-4437-9e08-0c938919edaa" />
 </p>
 
@@ -86,8 +86,8 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Golang" /></a>
+    <td align="center" width="97">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Golang" /></a>
       <br>Go
     </td>
     <td align="center" width="96">
