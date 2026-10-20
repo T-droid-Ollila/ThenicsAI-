@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-<h2 align="center">⚡ Our Technology Stack</h2>
+<h2 align="center">⚡ Our Technology & Tools Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge" alt="Ray"/>
@@ -84,55 +84,71 @@
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
 </p>
 
+<div align="center">
 <table>
-  <tr>
-    <td align="center" width="97">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Golang" /></a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src = "https://images.ctfassets.net/xjan103pcp94/5yLKQVTlNocKEwEILWzt0F/2bd3ee5d01f0c38369babef910603659/Webinar-Ray_logo.png" width="55" height="48" alt="Tmux" /></a>
-      <br>tmux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://static.vecteezy.com/system/resources/previews/009/033/752/non_2x/dvc-logo-dvc-letter-dvc-letter-logo-design-initials-dvc-logo-linked-with-circle-and-uppercase-monogram-logo-dvc-typography-for-technology-business-and-real-estate-brand-vector.jpg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
-    </td>
-      <td align="center" width="96">
-        <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="TypeScript" /></a>
-        <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="TypeScript" /></a>
-        <br>TypeScript
-    </td>    
-    <td align="center" width="96">
-        <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="TypeScript" /></a>
-        <br>TypeScript
-    </td>
-  <td align="center" width="96">
-    <a href="#macropower-tech"><img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="48" height="48" alt="TypeScript" /></a>
-    <br>TypeScript
-    </td>
-  </tr>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" height="52" alt="Python"/>
+  <br/><b>Python</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52" height="52" alt="PyTorch"/>
+  <br/><b>PyTorch</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="52" height="52" alt="OpenCV"/>
+  <br/><b>OpenCV</b>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="52" height="52" alt="GitHub Actions"/>
+  <br/><b>Actions</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" height="52" alt="Git"/>
+  <br/><b>Git</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"/>
+  <br/><b>GitHub</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" height="52" alt="AWS"/>
+  <br/><b>AWS</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52" height="52" alt="VS Code"/>
+  <br/><b>VS Code</b>
+</td>
+<td align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="52" height="52" alt="HuggingFace"/>
+  <br/><b>HuggingFace</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="52" height="52" alt="JavaScript"/>
+  <br/><b>JavaScript</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" height="52" alt="Docker"/>
+  <br/><b>Docker</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" height="52" alt="Scikit-learn"/>
+  <br/><b>Scikit-learn</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="52" height="52" alt="FastAPI"/>
+  <br/><b>FastAPI</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="52" height="52" alt="Posgresql"/>
+  <br/><b>Postgresql</b>
+</td>
+</tr>
+</tr>
 </table>
+</div>
+
