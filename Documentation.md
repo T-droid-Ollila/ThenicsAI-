@@ -37,13 +37,15 @@
 </p>
 
 
-- **Throughout the duration of the workloads artifacts we are going save those those artifacts to a centralized registry(Mlflow) to be used in stages such as model itself to be used in model evaluation(This involves using the model to know how well it performs on data not used during trainig.**
+- **Throughout the duration of the workloads artifacts we are going save those those artifacts to a centralized registry(Mlflow) to be used in stages such as model itself to be used in model evaluation(This involves using the model to know how well it performs on data not used during training.**
 
 <img width="458" height="163" alt="image" src="https://github.com/user-attachments/assets/1173bfc2-29a8-49a0-8f08-b82fa7a69c0c" />
 
 <p align="center">
   <i><b>Figure 3: Jobs and Services</b><i>
 </p>
+
+- **Pre-processing will the real-bottle-neck most of the data is video processing.This means time taken to annotate the specific frames which contain specific movements , an FPS paarameter to determine the fps the model will receive , editing out sections like intro's and outro's , commercial ads , talking and comments to focus purely on raw movements whether good or bad.Luckily we shall some of the best open source tools like Roboflow and YOLO pose.**
 
 ### 🚀App design
 
@@ -59,6 +61,8 @@
 
 - **The app UI can include illustrated animations plus webanimations for more interactive smooth user experience.Onboarding , upgrades and user checkouts,customizable color paletes depending on gender, smooth figma interaction, pricing pages explaining what the user gets by obtaining a free trial to optimize a paywall design**
 
+## Project duration
+- **The detailed plan for the project  will be registered witin a period of 14 days detailing what was developed each day, problems encountered and possible future improvements.**
 
 ## ⚡Conclusion
 - **In this work we presented the first ever technology of this kind to be able to solve the problems associated with Calisthenics and maintains fitness gains with irregular training schedules.We hope you havean amazing time using the app and for any clarity reach out to our team o our website.**
