@@ -37,7 +37,7 @@
       </a>
     </td>
   <tr>
-    <th> Lilly Rutto — Collaborater </th>
+    <th> Fletch Carlos - project lead </th>
     <td>
       <a href="https://github.com/YOUR_USERNAME">
         <img src="https://cdn.simpleicons.org/github/181717"
